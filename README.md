@@ -2,6 +2,21 @@
 
 The Canadian Housing market has gone through some turmoil. In this project we are going to analyze how much housing prices have increased over time and the relation of housing prices to a few key factors. We will assess data on housing prices in comparison to the housing affordability index, and then talk about how mortgages have an impact on the housing market. We are then going to talk about the relation to the rental market to the housing market within Canada, comparing if it is worth it for Canadians to buy or rent within the said market and in what geographic areas. Then we will assess some of the solutions to the housing crisis in Canada through PropTech investments and new developments within the country, analyzing solutions to a growing problem that Canadians face!
 
+
+## Are We In a Housing Crisis?
+
+![image_2](Img/image_2.png)
+
+The question of a possible housing crisis is something that many are speculating due to certain economic indicators pointing towards it. Looking at the data from the charts above, we can see that housing prices, inflation rates and interest rates have all taken a sudden uptrend due to COVID-19. This data indicates that we may be experiencing a housing crisis because rising housing prices will cause higher demand due to housing becoming significantly less affordable. To combat this, interest rates have risen quite drastically recently to counter this, however, this may have a net negative affect since it is becoming much more expensive to get a mortgage.
+
+The housing market is affected by a wide range of factors. As the population rises, so does the need for homes, and as a result, housing prices. The primary driver of increased housing demand is the pressing necessity of home ownership. The housing market is highly sensitive to changes in interest rates. Interest rates can drastically impact a homebuyer's abilities. Lower interest rates make it cheaper to get a mortgage to buy a property, which increases demand for real estate and raises prices. Inflation typically causes home prices to follow the same pattern as those of other 'products. As inflation rises, house prices slow. As shown, interest rate and inflation affect house prices more than population.
+
+## Is there an Impact on Housing from Population Growth and Immigration?
+
+![image_2](image_2.png)
+
+This chart comparing population growth to the number of immigrants coming to Canada from 2005-2022 indicates that there has been a surplus of immigration in canada since the beginning of 2020. As more immigrants move to Canada,  they will need places to live which may lead to higher demands for housing and increased housing prices.
+
 ## The Analysis of the Canadian Housing Crisis
 
 ## What is the Correlation of the Above Factors to Housing?
@@ -9,8 +24,6 @@ The Canadian Housing market has gone through some turmoil. In this project we ar
 ![Correlation](Correlation.png) ![Relation](Relation.png)
 
 The housing market is affected by a wide range of factors. As the population rises, so does the need for homes, and as a result, housing prices. The primary driver of increased housing demand is the pressing necessity of home ownership. The housing market is highly sensitive to changes in interest rates. Interest rates can drastically impact a homebuyer's abilities. Lower interest rates make it cheaper to get a mortgage to buy a property, which increases demand for real estate and raises prices. Inflation typically causes home prices to follow the same pattern as those of other 'products. As inflation rises, house prices slow. As shown, interest rate and inflation affect house prices more than population.
-
-![inflationandhousing](inflation_and_housing_price.jpg)
 
 ## How Unaffordable has the Housing Market Become?
 
