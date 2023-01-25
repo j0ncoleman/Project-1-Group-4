@@ -25,6 +25,12 @@ This chart comparing population growth to the number of immigrants coming to Can
 
 The housing market is affected by a wide range of factors. As the population rises, so does the need for homes, and as a result, housing prices. The primary driver of increased housing demand is the pressing necessity of home ownership. The housing market is highly sensitive to changes in interest rates. Interest rates can drastically impact a homebuyer's abilities. Lower interest rates make it cheaper to get a mortgage to buy a property, which increases demand for real estate and raises prices. Inflation typically causes home prices to follow the same pattern as those of other 'products. As inflation rises, house prices slow. As shown, interest rate and inflation affect house prices more than population.
 
+![inflationandhousing](inflationandhousingprice.jpg)
+![interestrateandhousing](interestrateandhousingprice.jpg)
+![populationhousingprice](populationhousingprice.jpg)
+
+The correlation of inflation and housing prices over time have not shown great signifance. This is due to the fact that Bank of Canada does not constantly raise prime rates with periods of medium inflation. As long as inflation is within the target of 2-4%, the Bank of Canada will not hike rates. Interest rates and housing prices show a similar trajectory but the correlation to increasing population and housing prices show a positive correlation. This gives us an indication that there needs to be an increase in supply of housing to meet demand due to immigration and population growth.
+
 ## How Unaffordable has the Housing Market Become?
 
 ![image_2](image_2.png)
