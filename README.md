@@ -1,17 +1,17 @@
-# What is the Correlation of the Above Factors to Housing?
+## What is the Correlation of the Above Factors to Housing?
 
 ![Correlation](Correlation.png) ![Relation](Relation.png)
 
 The housing market is affected by a wide range of factors. As the population rises, so does the need for homes, and as a result, housing prices. The primary driver of increased housing demand is the pressing necessity of home ownership. The housing market is highly sensitive to changes in interest rates. Interest rates can drastically impact a homebuyer's abilities. Lower interest rates make it cheaper to get a mortgage to buy a property, which increases demand for real estate and raises prices. Inflation typically causes home prices to follow the same pattern as those of other 'products. As inflation rises, house prices slow. As shown, interest rate and inflation affect house prices more than population.
 
-# How Unaffordable has the Housing Market Become?
+## How Unaffordable has the Housing Market Become?
 
 ![image_2](image_2.png)
 
 This graph compares the new house price index with affordability index for the Canadian Housing market. The timeline is from 1993 to 2022. And the conclusion that can be drawn here is, although affordability index has increased in recent years, the new house price index has gone up at a much high rate in comparison. (Source - Bank of Canada)
 
 
-# How do Mortgage-Backed Securities Play a Role in Housing Prices?
+## How do Mortgage-Backed Securities Play a Role in Housing Prices?
 
 ![image_1](image_1.png)
 
@@ -19,7 +19,7 @@ This bar chart clearly shows the rapid increase in issuance of mortgage-backed s
 
 
 
-# The Analysis of the Canadian Housing Crisis
+## The Analysis of the Canadian Housing Crisis
 
 
 
@@ -29,29 +29,24 @@ This bar chart clearly shows the rapid increase in issuance of mortgage-backed s
 
 ![bokeh_plot](bokeh_plot.png)
 
-#### According to the increasing trend in rents, we can get an insight here that many Canadians are postponing buying a home. Instead, they’re choosing to rent. This could mean an increased demand for apartment units and a reduced supply of apartments. Any time apartment demand increases and supply decreases, the cost of rent is going to go up.
+According to the increasing trend in rents, we can get an insight here that many Canadians are postponing buying a home. Instead, they’re choosing to rent. This could mean an increased demand for apartment units and a reduced supply of apartments. Any time apartment demand increases and supply decreases, the cost of rent is going to go up.
 
 ### Median Income analysis
 
 ![bokeh_plot4](bokeh_plot4.png)
 
-#### Average Canadian Salary in September 2022 is deduced from Labour Force Survey as $59,300 per year.
-#### According to 2020 income survey results, Canadians earned income ranges between 50K-80K per year. If this is compared to the current rental market, Every household is almost spending 30% to 40% of their income on rental and leasing purposes
-#### Among populous Canadian provinces, Alberta had the highest average and median income of $82700 and $87700.
-#### Toronto and Calgary can be ranked as having the highest and second-highest income inequality, while Quebec and Atlantic Canada are regions with the highest income equality.
+Average Canadian Salary in September 2022 is deduced from Labour Force Survey as $59,300 per year.According to 2020 income survey results, Canadians earned income ranges between 50K-80K per year. If this is compared to the current rental market, Every household is almost spending 30% to 40% of their income on rental and leasing purposes. Among populous Canadian provinces, Alberta had the highest average and median income of $82700 and $87700.Toronto and Calgary can be ranked as having the highest and second-highest income inequality, while Quebec and Atlantic Canada are regions with the highest income equality.
 
 
 ## Should you Buy or Rent Within the Canadian Market?
 
-#### What Is the Price-to-Rent Ratio?
+What Is the Price-to-Rent Ratio?
 
 ![SC2](SC2.png) ![SC3](SC3.png)
 
-#### The price-to-rent ratio is the ratio of home prices to annualized rent in a given location. This ratio is used as a benchmark for estimating whether it's cheaper to rent or own property. The price-to-rent ratio is used as an indicator for whether housing markets are fairly valued, or in a bubble.
+The price-to-rent ratio is the ratio of home prices to annualized rent in a given location. This ratio is used as a benchmark for estimating whether it's cheaper to rent or own property. The price-to-rent ratio is used as an indicator for whether housing markets are fairly valued, or in a bubble. Price to Rent ratio is one of the important factors that could be used by an individual to make decisions.
 
-#### Price to Rent ratio is one of the important factors that could be used by an individual to make decisions.
-
-### Geoview dashboard
+## Geoview dashboard
 ![link](housing_price_map.html)
 
 Graphically Representing Owned vs Rented Property in 2021
