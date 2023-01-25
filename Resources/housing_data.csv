@@ -1,4 +1,4 @@
-,Date,Composite_HPI_SA,Single_Family_HPI_SA,One_Storey_HPI_SA,Two_Storey_HPI_SA,Townhouse_HPI_SA,Apartment_HPI_SA,Composite_Benchmark_SA,Average Price,One_Storey_Benchmark_SA,Two_Storey_Benchmark_SA,Townhouse_Benchmark_SA,Apartment_Benchmark_SA
+,Date,Composite_HPI_SA,Single_Family_HPI_SA,One_Storey_HPI_SA,Two_Storey_HPI_SA,Townhouse_HPI_SA,Apartment_HPI_SA,Composite_Benchmark_SA,Average House Price,One_Storey_Benchmark_SA,Two_Storey_Benchmark_SA,Townhouse_Benchmark_SA,Apartment_Benchmark_SA
 0,2005-01-01,100.0,100.0,100.0,100.0,100.0,100.0,221200,234700,194200,273800,204300,171700
 1,2005-02-01,100.6,100.6,100.4,100.7,100.3,101.1,222600,236200,195000,275600,205000,173600
 2,2005-03-01,101.4,101.4,101.0,101.4,100.6,101.7,224300,237900,196200,277700,205500,174700
