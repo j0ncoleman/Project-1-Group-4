@@ -1,19 +1,71 @@
+# What is the Correlation of the Above Factors to Housing?
 
-# Project-1-Group-4
+![Correlation](Correlation.png) ![Relation](Relation.png)
 
-## Are We In a Housing Crisis?
+The housing market is affected by a wide range of factors. As the population rises, so does the need for homes, and as a result, housing prices. The primary driver of increased housing demand is the pressing necessity of home ownership. The housing market is highly sensitive to changes in interest rates. Interest rates can drastically impact a homebuyer's abilities. Lower interest rates make it cheaper to get a mortgage to buy a property, which increases demand for real estate and raises prices. Inflation typically causes home prices to follow the same pattern as those of other 'products. As inflation rises, house prices slow. As shown, interest rate and inflation affect house prices more than population.
 
-### The question of a possible housing crisis is something that many are speculating due to certain economic indicators pointing towards it. Looking at the data from the charts above, we can see that housing prices, inflation rates and interest rates have all taken a sudden uptrend due to COVID-19. This data indicates that we may be experiencing a housing crisis because rising housing prices will cause higher demand due to housing becoming significantly less affordable. To combat this, interest rates have risen quite drastically recently to counter this, however, this may have a net negative affect since it is becoming much more expensive to get a mortgage.
+# How Unaffordable has the Housing Market Become?
 
-![img](/img/prime_rates_vs_inflation.png)
+![image_2](image_2.png)
 
-## Is there an Impact on Housing from Population Growth and Immigration?
+This graph compares the new house price index with affordability index for the Canadian Housing market. The timeline is from 1993 to 2022. And the conclusion that can be drawn here is, although affordability index has increased in recent years, the new house price index has gone up at a much high rate in comparison. (Source - Bank of Canada)
 
-### This chart comparing population growth to the number of immigrants coming to Canada from 2005-2022 indicates that there has been a surplus of immigration in canada since the beginning of 2020. As more immigrants move to Canada,  they will need places to live which may lead to higher demands for housing and increased housing prices.
 
-![img](/img/pop_growth_vs_immigration.png)
+# How do Mortgage-Backed Securities Play a Role in Housing Prices?
 
-Q: What are Some Key Factors that Could Make Housing Affordable?
+![image_1](image_1.png)
+
+This bar chart clearly shows the rapid increase in issuance of mortgage-backed securities in the Canadian market from 2005-2019. And as its name suggests, this also illustrates how the amount of mortgage issued across Canada has more than tripled during this time span. (Source- Canada Mortgage & Housing Corporation)   
+
+
+
+# The Analysis of the Canadian Housing Crisis
+
+
+
+## How does Rental Markets Compare to Income Earned Over Time?
+
+### Rental Markets Analysis
+
+![bokeh_plot](bokeh_plot.png)
+
+#### According to the increasing trend in rents, we can get an insight here that many Canadians are postponing buying a home. Instead, they’re choosing to rent. This could mean an increased demand for apartment units and a reduced supply of apartments. Any time apartment demand increases and supply decreases, the cost of rent is going to go up.
+
+### Median Income analysis
+
+![bokeh_plot4](bokeh_plot4.png)
+
+#### Average Canadian Salary in September 2022 is deduced from Labour Force Survey as $59,300 per year.
+#### According to 2020 income survey results, Canadians earned income ranges between 50K-80K per year. If this is compared to the current rental market, Every household is almost spending 30% to 40% of their income on rental and leasing purposes
+#### Among populous Canadian provinces, Alberta had the highest average and median income of $82700 and $87700.
+#### Toronto and Calgary can be ranked as having the highest and second-highest income inequality, while Quebec and Atlantic Canada are regions with the highest income equality.
+
+
+## Should you Buy or Rent Within the Canadian Market?
+
+#### What Is the Price-to-Rent Ratio?
+
+![SC2](SC2.png) ![SC3](SC3.png)
+
+#### The price-to-rent ratio is the ratio of home prices to annualized rent in a given location. This ratio is used as a benchmark for estimating whether it's cheaper to rent or own property. The price-to-rent ratio is used as an indicator for whether housing markets are fairly valued, or in a bubble.
+
+#### Price to Rent ratio is one of the important factors that could be used by an individual to make decisions.
+
+### Geoview dashboard
+![link](housing_price_map.html)
+
+Graphically Representing Owned vs Rented Property in 2021
+---------------------------------------------------------
+
+The graph below shows the percentage of people that live in a house that
+they own in comparison to the percentage of people that live in a rented
+property. This percentage has been decreasing ever-so-slightly over the
+last census data as housing becomes more unaffordable for people to
+purchase adding on to our thesis.
+
+![CensusCanada](CensusCanada.JPG)
+
+# What are Some Key Factors that Could Make Housing Affordable?
 ----------------------------------------------------------------
 
 The Canadian government took regulatory measures by banning
@@ -92,13 +144,3 @@ years prior to 2021.
 
 ![NewDevelopments](NewDevelopments.JPG)
 
-Graphically Representing Owned vs Rented Property in 2021
----------------------------------------------------------
-
-The graph below shows the percentage of people that live in a house that
-they own in comparison to the percentage of people that live in a rented
-property. This percentage has been decreasing ever-so-slightly over the
-last census data as housing becomes more unaffordable for people to
-purchase adding on to our thesis.
-
-![CensusCanada](CensusCanada.JPG)
