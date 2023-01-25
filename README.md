@@ -13,7 +13,7 @@ The housing market is affected by a wide range of factors. As the population ris
 
 ## Is there an Impact on Housing from Population Growth and Immigration?
 
-![image_2](img/image_2.png)
+![image_2](img/pop_growth_vs_immigration.png)
 
 This chart comparing population growth to the number of immigrants coming to Canada from 2005-2022 indicates that there has been a surplus of immigration in canada since the beginning of 2020. As more immigrants move to Canada,  they will need places to live which may lead to higher demands for housing and increased housing prices.
 
