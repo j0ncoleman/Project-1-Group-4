@@ -5,7 +5,7 @@ The Canadian Housing market has gone through some turmoil. In this project we ar
 
 ## Are We In a Housing Crisis?
 
-![image_2](img/image_2.png)
+![image_2](img/prime_rates_vs_inflation.png)
 
 The question of a possible housing crisis is something that many are speculating due to certain economic indicators pointing towards it. Looking at the data from the charts above, we can see that housing prices, inflation rates and interest rates have all taken a sudden uptrend due to COVID-19. This data indicates that we may be experiencing a housing crisis because rising housing prices will cause higher demand due to housing becoming significantly less affordable. To combat this, interest rates have risen quite drastically recently to counter this, however, this may have a net negative affect since it is becoming much more expensive to get a mortgage.
 
