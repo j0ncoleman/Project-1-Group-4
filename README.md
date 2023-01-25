@@ -60,7 +60,7 @@ purchase adding on to our thesis.
 
 ![CensusCanada](CensusCanada.JPG)
 
-# What are Some Key Factors that Could Make Housing Affordable?
+What are Some Key Factors that Could Make Housing Affordable?
 ----------------------------------------------------------------
 
 The Canadian government took regulatory measures by banning
