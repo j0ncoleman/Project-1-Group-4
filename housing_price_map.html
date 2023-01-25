@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_edbf9be5e855a19dc25a7d33d60f9e29 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_edbf9be5e855a19dc25a7d33d60f9e29" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_edbf9be5e855a19dc25a7d33d60f9e29 = L.map(
+                "map_edbf9be5e855a19dc25a7d33d60f9e29",
+                {
+                    center: [53.726669, -127.647621],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 4,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_efaca0046d2a2331d56cfc07418716f6 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_edbf9be5e855a19dc25a7d33d60f9e29);
+        
+    
+            var marker_165add8ceeecfb0babce1d588ef3285d = L.marker(
+                [55.0, -106.0],
+                {}
+            ).addTo(map_edbf9be5e855a19dc25a7d33d60f9e29);
+        
+    
+            var icon_afa712388f948c0f830dca290f20ca3e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_165add8ceeecfb0babce1d588ef3285d.setIcon(icon_afa712388f948c0f830dca290f20ca3e);
+        
+    
+        var popup_29cf9270f4009ad8f3d3d0b3e527b209 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8d8e4241389f85aeb3ec2f0c33de7e31 = $(`<div id="html_8d8e4241389f85aeb3ec2f0c33de7e31" style="width: 100.0%; height: 100.0%;">Housing Price: 285700</div>`)[0];
+                popup_29cf9270f4009ad8f3d3d0b3e527b209.setContent(html_8d8e4241389f85aeb3ec2f0c33de7e31);
+            
+        
+
+        marker_165add8ceeecfb0babce1d588ef3285d.bindPopup(popup_29cf9270f4009ad8f3d3d0b3e527b209)
+        ;
+
+        
+    
+    
+            var marker_a114fc9b671693f234369488c2aa1b58 = L.marker(
+                [46.25, -63.0],
+                {}
+            ).addTo(map_edbf9be5e855a19dc25a7d33d60f9e29);
+        
+    
+            var icon_f09501c8b80baff7ba2ff7ba8ebcacd4 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_a114fc9b671693f234369488c2aa1b58.setIcon(icon_f09501c8b80baff7ba2ff7ba8ebcacd4);
+        
+    
+        var popup_d7d0768625ef7cdf94a33d309f9c976f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_9876c10ed31038ae69d89d579da3405a = $(`<div id="html_9876c10ed31038ae69d89d579da3405a" style="width: 100.0%; height: 100.0%;">Housing Price: 351890</div>`)[0];
+                popup_d7d0768625ef7cdf94a33d309f9c976f.setContent(html_9876c10ed31038ae69d89d579da3405a);
+            
+        
+
+        marker_a114fc9b671693f234369488c2aa1b58.bindPopup(popup_d7d0768625ef7cdf94a33d309f9c976f)
+        ;
+
+        
+    
+    
+            var marker_719a6eed6852c99802b54c047b4beb67 = L.marker(
+                [50.0, -85.0],
+                {}
+            ).addTo(map_edbf9be5e855a19dc25a7d33d60f9e29);
+        
+    
+            var icon_1e1801c93752ce2cd499e1399a939faf = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_719a6eed6852c99802b54c047b4beb67.setIcon(icon_1e1801c93752ce2cd499e1399a939faf);
+        
+    
+        var popup_ecd440290382f6d13012b54e820b0623 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ab629e4e8ab997b2e416d9fe1868eeed = $(`<div id="html_ab629e4e8ab997b2e416d9fe1868eeed" style="width: 100.0%; height: 100.0%;">Housing Price: 998629</div>`)[0];
+                popup_ecd440290382f6d13012b54e820b0623.setContent(html_ab629e4e8ab997b2e416d9fe1868eeed);
+            
+        
+
+        marker_719a6eed6852c99802b54c047b4beb67.bindPopup(popup_ecd440290382f6d13012b54e820b0623)
+        ;
+
+        
+    
+    
+            var marker_27b08dbce8d876ca8f749a8cb6c1e71e = L.marker(
+                [45.0, -63.0],
+                {}
+            ).addTo(map_edbf9be5e855a19dc25a7d33d60f9e29);
+        
+    
+            var icon_370799b339512508cf905abeddbe487a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_27b08dbce8d876ca8f749a8cb6c1e71e.setIcon(icon_370799b339512508cf905abeddbe487a);
+        
+    
+        var popup_722b0131517216bdaf29db02853675bb = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b624ad46bc3c0c267223953cb9c1d85d = $(`<div id="html_b624ad46bc3c0c267223953cb9c1d85d" style="width: 100.0%; height: 100.0%;">Housing Price: 392828</div>`)[0];
+                popup_722b0131517216bdaf29db02853675bb.setContent(html_b624ad46bc3c0c267223953cb9c1d85d);
+            
+        
+
+        marker_27b08dbce8d876ca8f749a8cb6c1e71e.bindPopup(popup_722b0131517216bdaf29db02853675bb)
+        ;
+
+        
+    
+    
+            var marker_a9db76e5a29780c3d29787c62a0a7e24 = L.marker(
+                [55.0, -115.0],
+                {}
+            ).addTo(map_edbf9be5e855a19dc25a7d33d60f9e29);
+        
+    
+            var icon_18af4c90c52a9fb6c2346c05ad8256ac = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_a9db76e5a29780c3d29787c62a0a7e24.setIcon(icon_18af4c90c52a9fb6c2346c05ad8256ac);
+        
+    
+        var popup_70c1a478d054f16eee9701ea6bff4ce8 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e3832739f8dfaf96e59b95f6a0b41fe2 = $(`<div id="html_e3832739f8dfaf96e59b95f6a0b41fe2" style="width: 100.0%; height: 100.0%;">Housing Price: 443398</div>`)[0];
+                popup_70c1a478d054f16eee9701ea6bff4ce8.setContent(html_e3832739f8dfaf96e59b95f6a0b41fe2);
+            
+        
+
+        marker_a9db76e5a29780c3d29787c62a0a7e24.bindPopup(popup_70c1a478d054f16eee9701ea6bff4ce8)
+        ;
+
+        
+    
+    
+            var marker_403c57a731c58c828b8f917b12175cfa = L.marker(
+                [53.726669, -127.647621],
+                {}
+            ).addTo(map_edbf9be5e855a19dc25a7d33d60f9e29);
+        
+    
+            var icon_c90fa73929c7d1995c9f65fb11564138 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_403c57a731c58c828b8f917b12175cfa.setIcon(icon_c90fa73929c7d1995c9f65fb11564138);
+        
+    
+        var popup_059772eb402839d5771a30c840dda7a7 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_379fa30d9ba2280d764a237654140b8b = $(`<div id="html_379fa30d9ba2280d764a237654140b8b" style="width: 100.0%; height: 100.0%;">Housing Price: 1040888</div>`)[0];
+                popup_059772eb402839d5771a30c840dda7a7.setContent(html_379fa30d9ba2280d764a237654140b8b);
+            
+        
+
+        marker_403c57a731c58c828b8f917b12175cfa.bindPopup(popup_059772eb402839d5771a30c840dda7a7)
+        ;
+
+        
+    
+    
+            var marker_a2c05efb3bfb4d816109d546d7489cc8 = L.marker(
+                [56.415211, -98.739075],
+                {}
+            ).addTo(map_edbf9be5e855a19dc25a7d33d60f9e29);
+        
+    
+            var icon_943aada8b6b653f2d2acd5c6f3eb96b7 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_a2c05efb3bfb4d816109d546d7489cc8.setIcon(icon_943aada8b6b653f2d2acd5c6f3eb96b7);
+        
+    
+        var popup_1a8ff6010bb6ac93c614eac94cd94800 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8862efc738e8baba6c6bcbf12d0fe02c = $(`<div id="html_8862efc738e8baba6c6bcbf12d0fe02c" style="width: 100.0%; height: 100.0%;">Housing Price: 338772</div>`)[0];
+                popup_1a8ff6010bb6ac93c614eac94cd94800.setContent(html_8862efc738e8baba6c6bcbf12d0fe02c);
+            
+        
+
+        marker_a2c05efb3bfb4d816109d546d7489cc8.bindPopup(popup_1a8ff6010bb6ac93c614eac94cd94800)
+        ;
+
+        
+    
+    
+            var marker_9df3c034d966f2adfcb5d94a684b6000 = L.marker(
+                [53.135509, -57.660435],
+                {}
+            ).addTo(map_edbf9be5e855a19dc25a7d33d60f9e29);
+        
+    
+            var icon_76a9f5ed087ead6ae5cc5c27e54432ca = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_9df3c034d966f2adfcb5d94a684b6000.setIcon(icon_76a9f5ed087ead6ae5cc5c27e54432ca);
+        
+    
+        var popup_694366cc75e6ea8be05a352956522d17 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ae9833c90cf2bd5831cada56c327f9c7 = $(`<div id="html_ae9833c90cf2bd5831cada56c327f9c7" style="width: 100.0%; height: 100.0%;">Housing Price: 324800</div>`)[0];
+                popup_694366cc75e6ea8be05a352956522d17.setContent(html_ae9833c90cf2bd5831cada56c327f9c7);
+            
+        
+
+        marker_9df3c034d966f2adfcb5d94a684b6000.bindPopup(popup_694366cc75e6ea8be05a352956522d17)
+        ;
+
+        
+    
+    
+            var marker_6e60430e4ced954ce3b7138b8f077c5c = L.marker(
+                [46.49839, -66.159668],
+                {}
+            ).addTo(map_edbf9be5e855a19dc25a7d33d60f9e29);
+        
+    
+            var icon_b7b139b39db271e96cc0c991e01c86a4 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_6e60430e4ced954ce3b7138b8f077c5c.setIcon(icon_b7b139b39db271e96cc0c991e01c86a4);
+        
+    
+        var popup_56c57211c9219a05c2adc6c52c6c2900 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_86d370d5912bc9dd3c15717253223ecf = $(`<div id="html_86d370d5912bc9dd3c15717253223ecf" style="width: 100.0%; height: 100.0%;">Housing Price: 275000</div>`)[0];
+                popup_56c57211c9219a05c2adc6c52c6c2900.setContent(html_86d370d5912bc9dd3c15717253223ecf);
+            
+        
+
+        marker_6e60430e4ced954ce3b7138b8f077c5c.bindPopup(popup_56c57211c9219a05c2adc6c52c6c2900)
+        ;
+
+        
+    
+    
+            var marker_93f048bde3246d0ad92369444a78f1a3 = L.marker(
+                [53.0, -70.0],
+                {}
+            ).addTo(map_edbf9be5e855a19dc25a7d33d60f9e29);
+        
+    
+            var icon_4be5eb6a7969980947d6417d95c32fb9 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_93f048bde3246d0ad92369444a78f1a3.setIcon(icon_4be5eb6a7969980947d6417d95c32fb9);
+        
+    
+        var popup_7e826a6ebf9b47e7a1da93b6b9de295a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_bebdad63798d1c0991240e67dbe050b6 = $(`<div id="html_bebdad63798d1c0991240e67dbe050b6" style="width: 100.0%; height: 100.0%;">Housing Price: 474941</div>`)[0];
+                popup_7e826a6ebf9b47e7a1da93b6b9de295a.setContent(html_bebdad63798d1c0991240e67dbe050b6);
+            
+        
+
+        marker_93f048bde3246d0ad92369444a78f1a3.bindPopup(popup_7e826a6ebf9b47e7a1da93b6b9de295a)
+        ;
+
+        
+    
+</script>
+</html>
