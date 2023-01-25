@@ -10,7 +10,7 @@ The Canadian Housing market has gone through some turmoil. In this project we ar
 
 The housing market is affected by a wide range of factors. As the population rises, so does the need for homes, and as a result, housing prices. The primary driver of increased housing demand is the pressing necessity of home ownership. The housing market is highly sensitive to changes in interest rates. Interest rates can drastically impact a homebuyer's abilities. Lower interest rates make it cheaper to get a mortgage to buy a property, which increases demand for real estate and raises prices. Inflation typically causes home prices to follow the same pattern as those of other 'products. As inflation rises, house prices slow. As shown, interest rate and inflation affect house prices more than population.
 
-![inflationandhousing](inflation_and_housing.jpg)
+![inflationandhousing](inflation_and_housing_price.jpg)
 
 ## How Unaffordable has the Housing Market Become?
 
