@@ -17,8 +17,6 @@ The housing market is affected by a wide range of factors. As the population ris
 
 This chart comparing population growth to the number of immigrants coming to Canada from 2005-2022 indicates that there has been a surplus of immigration in canada since the beginning of 2020. As more immigrants move to Canada,  they will need places to live which may lead to higher demands for housing and increased housing prices.
 
-## The Analysis of the Canadian Housing Crisis
-
 ## What is the Correlation of the Above Factors to Housing?
 
 ![Correlation](Correlation.png) ![Relation](Relation.png)
@@ -44,9 +42,6 @@ This graph compares the new house price index with affordability index for the C
 
 This bar chart clearly shows the rapid increase in issuance of mortgage-backed securities in the Canadian market from 2005-2019. And as its name suggests, this also illustrates how the amount of mortgage issued across Canada has more than tripled during this time span. (Source- Canada Mortgage & Housing Corporation)   
 
-
-
-
 ## How does Rental Markets Compare to Income Earned Over Time?
 
 ### Rental Markets Analysis
@@ -64,7 +59,7 @@ Average Canadian Salary in September 2022 is deduced from Labour Force Survey as
 
 ## Should you Buy or Rent Within the Canadian Market?
 
-What Is the Price-to-Rent Ratio?
+### What Is the Price-to-Rent Ratio?
 
 ![SC2](SC2.png) ![SC3](SC3.png)
 
